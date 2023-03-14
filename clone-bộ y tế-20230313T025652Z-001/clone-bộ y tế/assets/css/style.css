@@ -146,8 +146,8 @@ a {
     width: 3px;
     height: 24px;
     background: #2e3192;
-    left: -20px;
-    top: 1px;
+    left: -12px;
+    top: -2px;
     position: absolute;
 }
 
@@ -156,8 +156,8 @@ a {
     width: 3px;
     height: 24px;
     background: #ed1c24;
-    left: -17px;
-    top: 1px;
+    left: -15px;
+    top: -2px;
     position: absolute;
 }
 
@@ -473,7 +473,7 @@ a {
     height: 24px;
     background: #2e3192;
     left: 0;
-    top: 22px;
+    top: 3px;
     position: absolute;
 }
 
@@ -483,7 +483,7 @@ a {
     height: 24px;
     background: #ed1c24;
     left: 3px;
-    top: 22px;
+    top: 3px;
     position: absolute;
 }
 
@@ -535,7 +535,7 @@ a {
 
 .home__category .title-section {
     border-top: 1px solid #2e3192;
-    padding-top: 20px;
+    padding-top: 2px;
     margin-bottom: 10px;
 }
 
